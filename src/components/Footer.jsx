@@ -6,7 +6,7 @@ function Footer() {
             <div className="footer">
                 <div className="imglogo">
                     {}
-                    <img className="ibmeclogo" src="/Imagens/ibmeclogo.png" alt="ibmeclogo" />
+                    <img src="./Imagens/ibmeclogo.png" alt="ibmeclogo" className="ibmeclogo" />
                     <img src="./Imagens/nasalogo.png" alt="nasalogo" />
                     <img src="./Imagens/rocketlogo.png" alt="rocketlogo" />
                 </div>

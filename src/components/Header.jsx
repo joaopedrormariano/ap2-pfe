@@ -19,7 +19,7 @@ return (
         <div className="header">
             <div className="headerlogo">
                 {}
-                <img src="./Imagens/cansat_logo 1.png" alt="Logo CamSat" />
+                <img src="/Imagens/cansat_logo 1.png" alt="Logo CamSat" />
             </div>
             {}
             <nav className={`nav ${isNavActive ? 'active' : ''}`}>

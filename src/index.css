@@ -94,7 +94,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(Imagens/fundotelaHome.png);
+  background-image: url(./Imagens/fundotelaHome.png);
   padding: 86px;
 }
 
